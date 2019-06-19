@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ConfigChange>
+  <Routes>
+    <Add>
+      <Routes_Rec>
+        <Geom>MULTILINESTRING ((151.13074 -33.78666,151.130905423 -33.786848267,151.131274595 -33.787122817,151.132640712 -33.788158639,151.133117722 -33.788530614,151.133248999 -33.788633642,151.133265261 -33.788646295),(151.12313 -33.78105,151.124752239 -33.782256178,151.1267 -33.78374,151.12844 -33.78505,151.128523359 -33.785111423,151.128613322 -33.785177711,151.12882 -33.78533,151.129692892 -33.7859836,151.13031 -33.78641,151.13057 -33.78654),(151.12165 -33.77993,151.12293 -33.78093),(151.118333647 -33.777485029,151.11842174 -33.777553971,151.12147 -33.77983))</Geom>
+        <RouteId>6801</RouteId>
+        <Name>LR_8800072_Inbound</Name>
+        <DirectionDescription>Inbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>0</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+      <Routes_Rec>
+        <Geom>MULTILINESTRING ((151.133264901 -33.788646438,151.13324784 -33.78863434,151.133171597 -33.788581118,151.133116673 -33.788539075,151.132639407 -33.788172803,151.131235435 -33.787143965,151.130867 -33.78688,151.13067885 -33.786737391),(151.13051 -33.78662,151.130272 -33.786455,151.129658 -33.786018,151.128824 -33.785432,151.128490245 -33.785210153,151.128413207 -33.785154151,151.128374146 -33.785125468,151.128354911 -33.785110576,151.12668 -33.783838,151.124665 -33.782334,151.12301 -33.78114),(151.12283 -33.781,151.12155 -33.78003),(151.121338953 -33.779875969,151.120038 -33.778881,151.119917 -33.778791,151.119662 -33.7786,151.118933 -33.778053,151.118876 -33.77801,151.118613 -33.777812,151.118155 -33.777469))</Geom>
+        <RouteId>6802</RouteId>
+        <Name>LR_8800072_Outbound</Name>
+        <DirectionDescription>Outbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>0</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+      <Routes_Rec>
+        <Geom>LINESTRING (151.117430108 -33.780971361,151.117522 -33.780761,151.117593 -33.780625,151.117654 -33.780526,151.117746 -33.7804,151.117823 -33.780309,151.117935 -33.780194,151.119563 -33.778692)</Geom>
+        <RouteId>6803</RouteId>
+        <Name>LR_880053_Inbound</Name>
+        <DirectionDescription>Inbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>1</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+      <Routes_Rec>
+        <Geom>LINESTRING (151.117430108 -33.780971361,151.117522 -33.780761,151.117593 -33.780625,151.117654 -33.780526,151.117746 -33.7804,151.117823 -33.780309,151.117935 -33.780194,151.119563 -33.778692)</Geom>
+        <RouteId>6804</RouteId>
+        <Name>LR_8800535_Inbound</Name>
+        <DirectionDescription>Inbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>0</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+      <Routes_Rec>
+        <Geom>LINESTRING (151.117430108 -33.780971361,151.117522 -33.780761,151.117593 -33.780625,151.117654 -33.780526,151.117746 -33.7804,151.117823 -33.780309,151.117935 -33.780194,151.119563 -33.778692)</Geom>
+        <RouteId>6805</RouteId>
+        <Name>LR_8800535_Outbound</Name>
+        <DirectionDescription>Outbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>0</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+      <Routes_Rec>
+        <Geom>LINESTRING (151.117430108 -33.780971361,151.117522 -33.780761,151.117593 -33.780625,151.117654 -33.780526,151.117746 -33.7804,151.117823 -33.780309,151.117935 -33.780194,151.119563 -33.778692)</Geom>
+        <RouteId>6806</RouteId>
+        <Name>LR_8800535_Inbound</Name>
+        <DirectionDescription>Inbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>0</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+    </Add>
+    <Mod>
+      <Routes_Rec>
+        <Geom>MULTILINESTRING ((151.13074 -33.78666,151.130905423 -33.786848267,151.131274595 -33.787122817,151.132640712 -33.788158639,151.133117722 -33.788530614,151.133248999 -33.788633642,151.133265261 -33.788646295),(151.12313 -33.78105,151.124752239 -33.782256178,151.1267 -33.78374,151.12844 -33.78505,151.128523359 -33.785111423,151.128613322 -33.785177711,151.12882 -33.78533,151.129692892 -33.7859836,151.13031 -33.78641,151.13057 -33.78654),(151.12165 -33.77993,151.12293 -33.78093),(151.118333647 -33.777485029,151.11842174 -33.777553971,151.12147 -33.77983))</Geom>
+        <RouteId>6783</RouteId>
+        <Name>LR_8800072_Inbound</Name>
+        <DirectionDescription>Inbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>1</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+      <Routes_Rec>
+        <Geom>MULTILINESTRING ((151.133264901 -33.788646438,151.13324784 -33.78863434,151.133171597 -33.788581118,151.133116673 -33.788539075,151.132639407 -33.788172803,151.131235435 -33.787143965,151.130867 -33.78688,151.13067885 -33.786737391),(151.13051 -33.78662,151.130272 -33.786455,151.129658 -33.786018,151.128824 -33.785432,151.1285 -33.785205,151.12842 -33.785137,151.128384 -33.785107,151.12668 -33.783838,151.124665 -33.782334,151.12301 -33.78114),(151.12283 -33.781,151.12155 -33.78003),(151.121338953 -33.779875969,151.120038 -33.778881,151.119917 -33.778791,151.119662 -33.7786,151.118933 -33.778053,151.118876 -33.77801,151.118613 -33.777812,151.118155 -33.777469))</Geom>
+        <RouteId>6784</RouteId>
+        <Name>LR_8800072_Outbound</Name>
+        <DirectionDescription>Outbound</DirectionDescription>
+        <RouteType>3</RouteType>
+        <Retired>1</Retired>
+        <IncludeIn5Min>0</IncludeIn5Min>
+        <CollectionSetId>0</CollectionSetId>
+        <IsRoute>0</IsRoute>
+        <Description />
+        <SendtoDWOverrideInd>1</SendtoDWOverrideInd>
+      </Routes_Rec>
+    </Mod>
+  </Routes>
+  <VirtualSegments>
+    <Add>
+      <VirtualSegments_Rec>
+        <SegmentId>169101</SegmentId>
+        <Geom>LINESTRING (151.118333647 -33.777485029,151.11842174 -33.777553971,151.12147 -33.77983)</Geom>
+        <FromLat>-33.77748503</FromLat>
+        <FromLon>151.11833365</FromLon>
+        <MidLat>-33.77865852</MidLat>
+        <MidLon>151.11990105</MidLon>
+        <ToLat>-33.77983</ToLat>
+        <ToLon>151.12147</ToLon>
+        <WayPoints />
+        <ExpectedLen>390</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>50</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072005002</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169102</SegmentId>
+        <Geom>LINESTRING (151.12844 -33.78505,151.128523359 -33.785111423,151.128613322 -33.785177711,151.12882 -33.78533,151.129692892 -33.7859836,151.13031 -33.78641,151.13057 -33.78654)</Geom>
+        <FromLat>-33.78505</FromLat>
+        <FromLon>151.12844</FromLon>
+        <MidLat>-33.78582725</MidLat>
+        <MidLon>151.12948409</MidLon>
+        <ToLat>-33.78654</ToLat>
+        <ToLon>151.13057</ToLon>
+        <WayPoints />
+        <ExpectedLen>258</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>20</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072002002</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169103</SegmentId>
+        <Geom>LINESTRING (151.13074 -33.78666,151.130905423 -33.786848267,151.131274595 -33.787122817,151.132640712 -33.788158639,151.133117722 -33.788530614,151.133248999 -33.788633642,151.133265261 -33.788646295)</Geom>
+        <FromLat>-33.78666</FromLat>
+        <FromLon>151.13074</FromLon>
+        <MidLat>-33.78766541</MidLat>
+        <MidLon>151.1319902</MidLon>
+        <ToLat>-33.7886463</ToLat>
+        <ToLon>151.13326526</ToLon>
+        <WayPoints />
+        <ExpectedLen>322</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>10</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072001002</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169104</SegmentId>
+        <Geom>LINESTRING (151.12313 -33.78105,151.124752239 -33.782256178,151.1267 -33.78374,151.12844 -33.78505)</Geom>
+        <FromLat>-33.78105</FromLat>
+        <FromLon>151.12313</FromLon>
+        <MidLat>-33.7830455</MidLat>
+        <MidLon>151.12578836</MidLon>
+        <ToLat>-33.78505</ToLat>
+        <ToLon>151.12844</ToLon>
+        <WayPoints />
+        <ExpectedLen>662</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>30</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072003002</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169105</SegmentId>
+        <Geom>LINESTRING (151.12165 -33.77993,151.12293 -33.78093)</Geom>
+        <FromLat>-33.77993</FromLat>
+        <FromLon>151.12165</FromLon>
+        <MidLat>-33.78043</MidLat>
+        <MidLon>151.12229</MidLon>
+        <ToLat>-33.78093</ToLat>
+        <ToLon>151.12293</ToLon>
+        <WayPoints />
+        <ExpectedLen>162</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>40</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072004002</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169106</SegmentId>
+        <Geom>LINESTRING (151.121338953 -33.779875969,151.120038 -33.778881,151.119917 -33.778791,151.119662 -33.7786,151.118933 -33.778053,151.118876 -33.77801,151.118613 -33.777812,151.118155 -33.777469)</Geom>
+        <FromLat>-33.77987597</FromLat>
+        <FromLon>151.12133895</FromLon>
+        <MidLat>-33.77866685</MidLat>
+        <MidLon>151.11975125</MidLon>
+        <ToLat>-33.777469</ToLat>
+        <ToLon>151.118155</ToLon>
+        <WayPoints />
+        <ExpectedLen>398</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>50</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072005001</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169107</SegmentId>
+        <Geom>LINESTRING (151.13051 -33.78662,151.130272 -33.786455,151.129658 -33.786018,151.128824 -33.785432,151.128490245 -33.785210153,151.128413207 -33.785154151,151.128374146 -33.785125468)</Geom>
+        <FromLat>-33.78662</FromLat>
+        <FromLon>151.13051</FromLon>
+        <MidLat>-33.78586837</MidLat>
+        <MidLon>151.12944505</MidLon>
+        <ToLat>-33.78512547</ToLat>
+        <ToLon>151.12837415</ToLon>
+        <WayPoints />
+        <ExpectedLen>258</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>20</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072002001</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169108</SegmentId>
+        <Geom>LINESTRING (151.133264901 -33.788646438,151.13324784 -33.78863434,151.133171597 -33.788581118,151.133116673 -33.788539075,151.132639407 -33.788172803,151.131235435 -33.787143965,151.130867 -33.78688,151.13067885 -33.786737391)</Geom>
+        <FromLat>-33.78864644</FromLat>
+        <FromLon>151.1332649</FromLon>
+        <MidLat>-33.78768657</MidLat>
+        <MidLon>151.13197588</MidLon>
+        <ToLat>-33.78673739</ToLat>
+        <ToLon>151.13067885</ToLon>
+        <WayPoints />
+        <ExpectedLen>320</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>10</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072001001</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169109</SegmentId>
+        <Geom>LINESTRING (151.128374146 -33.785125468,151.128354911 -33.785110576,151.12668 -33.783838,151.124665 -33.782334,151.12301 -33.78114)</Geom>
+        <FromLat>-33.78512547</FromLat>
+        <FromLon>151.12837415</FromLon>
+        <MidLat>-33.78311205</MidLat>
+        <MidLon>151.1257074</MidLon>
+        <ToLat>-33.78114</ToLat>
+        <ToLon>151.12301</ToLon>
+        <WayPoints />
+        <ExpectedLen>665</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>30</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072003001</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169110</SegmentId>
+        <Geom>LINESTRING (151.12283 -33.781,151.12155 -33.78003)</Geom>
+        <FromLat>-33.781</FromLat>
+        <FromLon>151.12283</FromLon>
+        <MidLat>-33.780515</MidLat>
+        <MidLon>151.12219</MidLon>
+        <ToLat>-33.78003</ToLat>
+        <ToLon>151.12155</ToLon>
+        <WayPoints />
+        <ExpectedLen>160</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800072</RoadNumber>
+        <LinkNumber>40</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>8800072004001</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169111</SegmentId>
+        <Geom>LINESTRING (151.119563 -33.778692,151.117935 -33.780194,151.117823 -33.780309,151.117746 -33.7804,151.117654 -33.780526,151.117593 -33.780625,151.117522 -33.780761,151.117430108 -33.780971361)</Geom>
+        <FromLat>-33.778692</FromLat>
+        <FromLon>151.119563</FromLon>
+        <MidLat>-33.77976001</MidLat>
+        <MidLon>151.1184054</MidLon>
+        <ToLat>-33.78097136</ToLat>
+        <ToLon>151.11743011</ToLon>
+        <WayPoints />
+        <ExpectedLen>324</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>R</Oneway>
+        <RoadNumber>8800535</RoadNumber>
+        <LinkNumber>10</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>1036101032957</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+      <VirtualSegments_Rec>
+        <SegmentId>169112</SegmentId>
+        <Geom>LINESTRING (151.119563 -33.778692,151.117935 -33.780194,151.117823 -33.780309,151.117746 -33.7804,151.117654 -33.780526,151.117593 -33.780625,151.117522 -33.780761,151.117430108 -33.780971361)</Geom>
+        <FromLat>-33.778692</FromLat>
+        <FromLon>151.119563</FromLon>
+        <MidLat>-33.77976001</MidLat>
+        <MidLon>151.1184054</MidLon>
+        <ToLat>-33.78097136</ToLat>
+        <ToLon>151.11743011</ToLon>
+        <WayPoints />
+        <ExpectedLen>324</ExpectedLen>
+        <Retired>0</Retired>
+        <Oneway>F</Oneway>
+        <RoadNumber>8800535</RoadNumber>
+        <LinkNumber>10</LinkNumber>
+        <RoadCode>O</RoadCode>
+        <FeatureId>1036101032957</FeatureId>
+        <SourceName>LOCALROADPB</SourceName>
+      </VirtualSegments_Rec>
+    </Add>
+  </VirtualSegments>
+  <RouteSegments>
+    <Add>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369141</RouteSegmentId>
+        <RouteId>6801</RouteId>
+        <SegmentId>169101</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369142</RouteSegmentId>
+        <RouteId>6801</RouteId>
+        <SegmentId>169102</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369143</RouteSegmentId>
+        <RouteId>6801</RouteId>
+        <SegmentId>169103</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369144</RouteSegmentId>
+        <RouteId>6801</RouteId>
+        <SegmentId>169104</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369145</RouteSegmentId>
+        <RouteId>6801</RouteId>
+        <SegmentId>169105</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369146</RouteSegmentId>
+        <RouteId>6802</RouteId>
+        <SegmentId>169106</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369147</RouteSegmentId>
+        <RouteId>6802</RouteId>
+        <SegmentId>169107</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369148</RouteSegmentId>
+        <RouteId>6802</RouteId>
+        <SegmentId>169108</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369149</RouteSegmentId>
+        <RouteId>6802</RouteId>
+        <SegmentId>169109</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369150</RouteSegmentId>
+        <RouteId>6802</RouteId>
+        <SegmentId>169110</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369151</RouteSegmentId>
+        <RouteId>6803</RouteId>
+        <SegmentId>169111</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369152</RouteSegmentId>
+        <RouteId>6804</RouteId>
+        <SegmentId>169111</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369153</RouteSegmentId>
+        <RouteId>6805</RouteId>
+        <SegmentId>169112</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+      <RouteSegments_Rec>
+        <RouteSegmentId>369154</RouteSegmentId>
+        <RouteId>6806</RouteId>
+        <SegmentId>169111</SegmentId>
+        <Sequence />
+      </RouteSegments_Rec>
+    </Add>
+  </RouteSegments>
+</ConfigChange>
