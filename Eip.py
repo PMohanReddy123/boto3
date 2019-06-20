@@ -1,5 +1,6 @@
 import boto3
 client = boto3.client('ec2')
+
 # To create EIP
 Eip = client.allocate_address(
     Domain='vpc'
@@ -19,3 +20,4 @@ release=client.disassociate_address(
 client.release_address(
     AllocationId=Eip['AllocationId']
 )
+
