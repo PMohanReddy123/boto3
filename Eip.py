@@ -15,7 +15,6 @@ response = client.associate_address(
 release=client.disassociate_address(
     AssociationId=response['AssociationId']
 )
-
 # To release EIPs
 client.release_address(
     AllocationId=Eip['AllocationId']
