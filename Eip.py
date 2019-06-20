@@ -19,4 +19,3 @@ release=client.disassociate_address(
 client.release_address(
     AllocationId=Eip['AllocationId']
 )
-
