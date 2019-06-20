@@ -5,4 +5,7 @@ response = client.associate_address(
     AllocationId='eipalloc-02b2f4fbaee9cd73f',
     InstanceId='i-08905207e090dff0c'
 )
-print(response)
+# To release EIPs
+client.release_address(
+    AllocationId='eipalloc-02b2f4fbaee9cd73f'
+)
